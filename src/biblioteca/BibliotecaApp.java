@@ -6,5 +6,4 @@ public class BibliotecaApp {
 		
 		Livro l = new Livro();
 	}
-
 }
